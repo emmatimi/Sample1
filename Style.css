@@ -124,7 +124,7 @@
 .contact-us{
     position: absolute;
     min-width: 1400px;
-    height: 430px;
+    height: 470px;
     top: 554px;
     background: #292929;
 }
@@ -161,7 +161,7 @@
 .contact-us  .address{
     width: 1070;
     height: 50;
-    padding: 0 186px ;
+    padding: 50px 186px ;
     font-size: 32px;
     font-weight: 300;
 }
